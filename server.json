@@ -1,28 +1,68 @@
 {
-    "transactions": [
-        {
-            "id": 1, 
-            "description": "Web Developing",
-            "type": "income",
-            "category": "Venda",
-            "price": 14000,
-            "createdAt": "2024-02-16T01:48:56.040Z"
-          },
-          {
-            "id": 2, 
-            "description": "Hamburger",
-            "type": "outcome",
-            "category": "Alimentação",
-            "price": 14,
-            "createdAt": "2024-02-16T01:48:25.040Z"
-        },
-        {
-            "id": 3, 
-            "description": "Ignite Rocketseat",
-            "type": "outcome",
-            "category": "Educação",
-            "price": 999,
-            "createdAt": "2024-02-16T01:12:25.040Z"
-        }
-    ]
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Web Developing",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2024-02-16T01:48:56.040Z"
+    },
+    {
+      "id": 2,
+      "description": "Hamburger",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 14,
+      "createdAt": "2024-02-16T01:48:25.040Z"
+    },
+    {
+      "id": 3,
+      "description": "Ignite Rocketseat",
+      "type": "outcome",
+      "category": "Educação",
+      "price": 999,
+      "createdAt": "2024-02-16T01:12:25.040Z"
+    },
+    {
+      "id": 4,
+      "description": "Show",
+      "type": "outcome",
+      "category": "Laser",
+      "price": 350,
+      "createdAt": "2024-02-16T01:12:02.040Z"
+    },
+    {
+      "description": "Desenvolvimento de App",
+      "price": 10000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2024-02-23T01:17:54.670Z",
+      "id": 5
+    },
+    {
+      "description": "Pastel ",
+      "type": "outcome",
+      "price": 9,
+      "category": "Alimentação",
+      "createdAt": "2024-02-23T01:19:53.200Z",
+      "id": 6
+    },
+    {
+      "description": "Coca-Cola",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 5,
+      "createdAt": "2024-02-23T01:20:37.557Z",
+      "id": 7
+    },
+    {
+      "description": "Bobs",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 35,
+      "createdAt": "2024-02-23T01:43:43.802Z",
+      "id": 8
+    }
+  ]
 }
